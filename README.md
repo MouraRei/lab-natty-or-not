@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Vale da Estranheza ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Por mais que a tecnologia tenha avançado cada vez mais, a maioria das vezes não consegue convencer a percepção humana. A “imitação” ainda possui traços que denuncia que não é algo real. O que acaba trazendo certa estranheza ao se analisar.  
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot do Bing.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Acessando o navegador Edge, existe um ícone do Copilot. No qual você pode acessar e utilizar o chatbot. Nele escrevi no prompt “Crie um pequeno texto falando sobre o vale da estranheza”. Nisso ele me retornou um texto bem interessante.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O **Vale da Estranheza** é um conceito fascinante na área de robótica e design de personagens. Ele se refere a uma curva hipotética que descreve a reação emocional das pessoas a entidades humanóides. À medida que essas entidades se tornam mais semelhantes aos humanos, a resposta emocional positiva aumenta, mas apenas até certo ponto.
+
+Quando a semelhança humana se torna extremamente alta, mas não perfeitamente humana, a resposta emocional de repente se torna negativa. Este ponto de declínio acentuado é conhecido como o "vale". Acredita-se que essa estranheza ocorra porque a entidade parece quase humana, mas algo está "errado" ou "fora", causando desconforto e até repulsa.
+
+No entanto, se a entidade se torna indistinguível de um humano real, a resposta emocional se torna positiva novamente. É um fenômeno intrigante que continua a desafiar designers, artistas e engenheiros de robótica. O Vale da Estranheza serve como um lembrete constante de quão delicada é a nossa percepção do que é "humano".
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A tecnologia tem avançado bastante, e as IAs estão se aprimorando cada vez mais. Embora ainda aja um estranhamento ao perceber algo “fake natty”. No futuro provavelmente não vai existir esse Vale da Estranheza.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
